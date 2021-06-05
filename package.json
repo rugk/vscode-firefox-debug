@@ -33,7 +33,7 @@
     "fs-extra": "^6.0.1",
     "is-absolute-url": "^2.1.0",
     "minimatch": "^3.0.4",
-    "semver": "^5.5.0",
+    "semver": "^5.7.1",
     "source-map": "^0.6.1",
     "tslib": "^1.9.2",
     "unzipper": "^0.8.14",
