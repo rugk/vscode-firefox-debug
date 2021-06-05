@@ -38,7 +38,7 @@
     "tslib": "^1.9.2",
     "unzipper": "^0.8.14",
     "uuid": "^3.2.1",
-    "vscode-debugadapter": "^1.29.0",
+    "vscode-debugadapter": "^1.47.0",
     "zip-dir": "^1.0.2"
   },
   "devDependencies": {
