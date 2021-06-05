@@ -35,7 +35,7 @@
     "minimatch": "^3.0.4",
     "semver": "^5.5.0",
     "source-map": "^0.6.1",
-    "tslib": "^1.9.2",
+    "tslib": "^1.14.1",
     "unzipper": "^0.8.14",
     "uuid": "^3.2.1",
     "vscode-debugadapter": "^1.29.0",
