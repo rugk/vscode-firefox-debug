@@ -36,7 +36,7 @@
     "semver": "^5.5.0",
     "source-map": "^0.6.1",
     "tslib": "^1.9.2",
-    "unzipper": "^0.8.14",
+    "unzipper": "^0.10.11",
     "uuid": "^3.2.1",
     "vscode-debugadapter": "^1.29.0",
     "zip-dir": "^1.0.2"
