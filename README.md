@@ -113,7 +113,7 @@ subdirectory of your project, e.g. `http://localhost/login/index.html`.
 To use attach mode, you have to launch Firefox manually from a terminal with remote debugging enabled.
 Note that if you don't use Firefox Developer Edition, you must first configure Firefox to allow
 remote debugging. To do this, open the Developer Tools Settings and check the checkboxes labeled
-"Enable browser chrome and add-on debugging toolboxes" and "Enable remote debugging"
+“Enable browser chrome and add-on debugging toolboxes” and “Enable remote debugging”
 (as described [here](https://firefox-source-docs.mozilla.org/devtools-user/browser_toolbox/index.html)).
 Alternatively you can set the following values in `about:config`:
 
